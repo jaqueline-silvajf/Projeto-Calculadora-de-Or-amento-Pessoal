@@ -33,8 +33,3 @@ Esse foi meu **primeiro projeto utilizando React**, com foco em aplicar conceito
 
 ---
 
-## 🚀 Como executar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
