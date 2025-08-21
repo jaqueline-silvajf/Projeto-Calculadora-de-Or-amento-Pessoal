@@ -1,4 +1,4 @@
-# 📊 Calculadora de Orcamento Pessoal
+# 📊 Calculadora de Orçamento Pessoal
 
 Este projeto faz parte das atividades obrigatórias da disciplina do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas**.  
 O objetivo é **desenvolver uma aplicação web simples** que permita ao usuário registrar suas despesas e visualizar um resumo mensal.  
